@@ -56,3 +56,7 @@
 [12Dec2024 20:58:30.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4204a3de[id=<null>,name=pipexdd7,properties={},legacy=false] (/100.76.249.50:59929) lost connection: Disconnected
 [12Dec2024 20:59:21.259] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38a067ff[id=<null>,name=pipexdd7,properties={},legacy=false] (/100.76.249.50:53236) lost connection: Disconnected
 [12Dec2024 21:03:17.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@190f8b39[id=<null>,name=pipexdd7,properties={},legacy=false] (/100.76.249.50:49196) lost connection: Timed out
+[12Dec2024 21:26:18.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 21:26:18.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[12Dec2024 21:26:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 21:26:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: closed<--[HERE]
