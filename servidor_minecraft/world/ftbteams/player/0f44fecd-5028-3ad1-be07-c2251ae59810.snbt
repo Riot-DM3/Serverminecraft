@@ -1,0 +1,17 @@
+{
+	id: "0f44fecd-5028-3ad1-be07-c2251ae59810"
+	type: "player"
+	player_name: "Sarydark_23"
+	ranks: {
+		0f44fecd-5028-3ad1-be07-c2251ae59810: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sarydark_23"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

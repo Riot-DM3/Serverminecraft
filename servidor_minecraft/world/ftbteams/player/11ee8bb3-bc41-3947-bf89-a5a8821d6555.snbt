@@ -1,0 +1,17 @@
+{
+	id: "11ee8bb3-bc41-3947-bf89-a5a8821d6555"
+	type: "player"
+	player_name: "pipexdd7"
+	ranks: {
+		11ee8bb3-bc41-3947-bf89-a5a8821d6555: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pipexdd7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
